@@ -71,5 +71,8 @@ MONGODB_URL = mongodb+srv://<username>:<password>@<Cluster>.mongodb.net/?retryWr
 ```
 
 ## Usage
-
+Run server
+```sh
+pipenv run main.py
+```
 Simple docs for the APIs available at http://localhost:PORT/docs
