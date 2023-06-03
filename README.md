@@ -27,7 +27,7 @@
 
 ## About The Project
 
-REST server that provides CRUD APIs for my front end note taking app that supports markdown at: [https://github.com/td2thinh/react-markdown-note](Link to repo)
+REST server that provides CRUD APIs for my front end note taking app that supports markdown at: [Link to repo](https://github.com/td2thinh/react-markdown-note)
 This was done to get a hands-on experience with building a back end using FastAPI and work with MongoDB
 
 ## Built With
