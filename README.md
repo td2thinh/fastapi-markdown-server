@@ -33,7 +33,13 @@ This was done to get a hands-on experience with building a back end using FastAP
 
 ## Built With
 
-FastAPI + Motor + Beanie
+FastAPI + Beanie(Pydantic + Motor as foundation)
+
+FastAPI enables you to build REST server very quickly to get your application up and running, Beanie provides async ODM for MongoDB
+
+## Lesson Learned
+
+Managing python packages with pipenv which is a Python virtualenv management tool which could be easily "Dockerized", building REST server with FastAPI Framework and learning how to work with MongoDB in Python using Beanie.
 
 ## Getting Started
 
