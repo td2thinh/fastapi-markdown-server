@@ -19,6 +19,7 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
+* [Lesson Learned](#lesson-learned)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
